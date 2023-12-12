@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="search_notes">Искать в заметках</string>
+    <string name="note_title">Название заметки</string>
+    <string name="note_subtitle">Примечание</string>
+    <string name="type_note_here">Текст вашей заметки..</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Выбрать цвет</string>
+    <string name="add_image">Добавить фото</string>
+    <string name="add_url">Добавить ссылку</string>
+    <string name="enter_url">Введите ссылку</string>
+    <string name="add">Добавить</string>
+    <string name="cancel_dialog">Отменить</string>
+</resources>
